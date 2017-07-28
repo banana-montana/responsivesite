@@ -2062,22 +2062,11 @@ footer li a {
 	}
 }
 
-@media screen and (min-width:1024px) and (max-width:1366px) {
+@media screen and (min-width:1367px) and (max-width:1440px) {
 /* ----- find us ----- */
 	.article-bg {
 			width: 600px;
-			top:1410px;
-			left:calc(50% - 300px);
-			z-index: 20;
-		}
-
-}
-
-@media screen and (min-width:1280px) and (max-width:1440px) {
-/* ----- find us ----- */
-	.article-bg {
-			width: 600px;
-			top:1410px;
+			top:1210px;
 			left:calc(50% - 300px);
 			z-index: 20;
 		}
@@ -2114,31 +2103,13 @@ footer li a {
 
 }
 
+@media screen and (min-width:1024px) and (max-width:1366px) {
+/* ----- find us ----- */
+	.article-bg {
+			width: 600px;
+			top:1010px;
+			left:calc(50% - 300px);
+			z-index: 20;
+		}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+}
